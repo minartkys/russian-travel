@@ -1,0 +1,21 @@
+.cover__link{
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  height:740px;
+  }
+  @media (max-width:1024px){
+    .cover__link{
+      height: 640px;
+    }
+  }
+  @media (max-width:768px){
+    .cover__link{
+      height: 480px;
+    }
+  }
+  @media (max-width:320px){
+    .cover__link{
+      height: 200px;
+    }
+  }
