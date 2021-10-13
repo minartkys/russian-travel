@@ -15,10 +15,9 @@
     max-width:720px;
   }
 }
-@media (max-width:320px){
+@media (max-width:570px){
   .footer{
-    height: 310px;
     flex-direction: column;
-    max-width:288px;
+    max-width:570px;
   }
 }
